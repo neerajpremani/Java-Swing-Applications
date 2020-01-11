@@ -1,0 +1,18 @@
+{
+  "name": "drugs_api",
+  "version": "1.0.0",
+  "description": "Drugs api and legal right to sell that drug by chemist",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node_modules/.bin/nodemon app.js"
+  },
+  "author": "Hemant Jain",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.7"
+  }
+}
